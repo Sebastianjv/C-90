@@ -1,0 +1,10 @@
+.body_background{
+background-image: url(fondo_de_rosas.jpg);
+background-position: center;
+background-size: cover;
+
+}
+
+.myCanvas{
+    background-position: center;
+}
